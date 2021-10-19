@@ -1,2 +1,5 @@
 # stringBuilder_exemplo
-Exemplo de uma aplicação em java com StringBuilder
+
+Demo em JAVA de StringBuilder, base do projeto do curso Java COMPLETO Programação Orientada a Objetos +Projetos 
+ - Aula  
+ - Link: https://www.udemy.com/course/java-curso-completo/
